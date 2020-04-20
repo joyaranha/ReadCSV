@@ -1,6 +1,6 @@
 # Puzzle 1 - Count rows of a csv file
-1. Create a commandline project named "ReadCSV" in visual studio using .Net Core
-2. Copy the code in ReadCSV.txt to Program.cs 
+1. Open the ReadCSV.sln in Visual Studio 2019 using .Net Core
+2. Program.cs contains the code to count the number of rows in .csv file 
 3. change the hardcoded location of csv-sample.csv in Program.cs
 4. build the project and execute it
 
