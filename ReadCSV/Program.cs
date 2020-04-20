@@ -20,6 +20,7 @@ namespace ReadCSV
 
         static Hashtable ReadLine(string[] strArray)
         {
+            //Create Hashtable to count the number of rows in .csv file
             Hashtable tbl = new Hashtable();
             strArray[strArray.Length - 1] = strArray[strArray.Length - 1] + "\r\n";
             int line = 1;
